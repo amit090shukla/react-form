@@ -1,0 +1,26 @@
+.d-f {
+  display: flex;
+}
+.d-f-c {
+  display: flex;
+  flex-direction: column;
+}
+.m-r-8 {
+  margin-right: 10px;
+}
+.spacer {
+  margin: 20px 0;
+}
+.deleteBtn {
+  border: 1px solid red;
+  padding: 8px;
+  border-radius: 5px;
+  background-color: white;
+  color: red;
+  text-transform: "none";
+}
+* {
+  margin: 0;
+  padding: 0;
+  position: relative;
+}
